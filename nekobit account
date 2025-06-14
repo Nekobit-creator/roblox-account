@@ -1,0 +1,50 @@
+┌────────────────────────────────────────────┐
+│ Roblox-Inspired Header (Not Roblox logo)   │
+├────────────────────────────────────────────┤
+│ Home | Send Robux | Friends | Logout       │  ← Navigation bar
+├────────────────────────────────────────────┤
+│ Welcome, DemoUser123!                      │
+│ Your Balance: 500 Robux                    │
+│                                            │
+│ [Send Robux Form]                          │
+│ [Friend List -                    │a<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>RobuxMate - Demo</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #e3e3e3;
+    }
+
+    header {
+      background-color: #242424;
+      color: white;
+      padding: 15px 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .nav {
+      background-color: #343434;
+      display: flex;
+      padding: 10px 20px;
+    }
+
+    .nav button {
+      background: none;
+      color: white;
+      border: none;
+      margin-right: 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    .nav
+
+├────────────────────────────────────────────┤
+│ ⚠ For educational use only. Not real.      │
+└────────────────────────────────────────────┘
